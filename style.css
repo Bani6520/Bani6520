@@ -7,14 +7,8 @@ body {
 
 #profile-container{
     max-width: 300px;
-    background-attachment: white;
+    background-color:  white;
     border: 1px solid gray;
-    border-radius: 6px;
-}
-
-#profile-container{
-    max-width: 300px;
-    background-color: solid gray;
     border-radius: 6px;
 }
 
