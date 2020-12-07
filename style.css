@@ -1,5 +1,5 @@
 body {
-    widht: 100%;
+    width: 100%;
     margin: 30px;
     background-color: antiquewhite;
 
@@ -16,6 +16,7 @@ body {
     width: 100%;
     height: auto;
 }
+
 #profile-name{
     text-align: center;
 }
